@@ -3,7 +3,7 @@
 - It includes both regression and classification tasks to predict the extent of forest fires and whether an area has burned or not.
 
 # Dataset.
--The dataset used in this project contains information about various parameters related to forest fires, including weather conditions and environmental factors. The dataset includes the following columns:
+- The dataset used in this project contains information about various parameters related to forest fires, including weather conditions and environmental factors. The dataset includes the following columns:
 
 - Month: Month of the year (1-12)
 - Day: Day of the month (1-31)
