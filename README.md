@@ -6,7 +6,7 @@
 - The dataset used in this project contains information about various parameters related to forest fires, including weather conditions and environmental factors. The dataset includes the following columns:
 
 - Month: Month of the year (1-12)
-- Day: Day of the month (1-31)
+- Day: Day of the week (1-7)
 - FFMC: Fine Fuel Moisture Code
 - DMC: Duff Moisture Code
 - DC: Drought Code
